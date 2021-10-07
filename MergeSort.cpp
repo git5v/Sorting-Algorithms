@@ -1,3 +1,6 @@
+// Best and worst case time complexity is O(nlogn)
+// Space complexity is O(n)
+
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
