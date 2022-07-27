@@ -9,7 +9,7 @@ void merge(int a[],int s, int e,int mid)
 {
  int i=s,j=mid+1,k=s;
  
- int temp[s+e-1];
+ int temp[s+e+1];
  
  while(i<=mid and j<=e)
  {
