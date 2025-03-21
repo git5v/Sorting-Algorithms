@@ -1,3 +1,6 @@
+// Basically in quick sort we make some element as pivot and in recursive call we place it at its correct position
+// then again try the recusrive calls to its left and right to make rest of the elements at its correct position  
+
 #include <bits/stdc++.h>
 
 int pivot1(vector<int>& v, int low, int high)
